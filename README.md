@@ -2,4 +2,4 @@
  
  v.1-Repository Git Github
 
-That line i add directly on the website
+That line i've add directly on the website
